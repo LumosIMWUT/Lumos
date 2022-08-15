@@ -15,5 +15,10 @@ This is the Source code repository: Lumos: An Open-Source Device for Wearable Sp
 ###### Hardware
 
 ###### Libraries
+* Numpy
+* Pandas
+* Matplotlib
+* SciPy
+* LuxPy: https://github.com/ksmet1977/luxpy
 
 ## Quick Start
