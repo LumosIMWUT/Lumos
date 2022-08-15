@@ -3,7 +3,7 @@
 This is the Source code repository: Lumos: An Open-Source Device for Wearable Spectroscopy Research
 
 
-#What's Included
+# What's Included
 1. Hardware Schematics
 2. Arduino Code to Run the Lumos Device
 2. Form Factor Designs
@@ -11,3 +11,9 @@ This is the Source code repository: Lumos: An Open-Source Device for Wearable Sp
 4. Example Python Code for Detecting the Wavelength of Various Mediums
 
 #Dependencies
+
+##Hardware
+
+##Libraries
+
+#Quick Start
